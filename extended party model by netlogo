@@ -2,7 +2,7 @@
 链接：https://pan.baidu.com/s/1vMDwBZeUoCK5ZNIglu5rLg  提取码：op4i 
 
 创建变量
-globals [    ;;创建全局变量
+>globals [    ;;创建全局变量
   group-sites   ;; agentset of patches where groups are located
   boring-groups  ;; how many groups are currently single-sex
 ]
